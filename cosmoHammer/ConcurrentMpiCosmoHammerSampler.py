@@ -1,5 +1,5 @@
 
-import multiprocessing
+import multiprocess as multiprocessing
 from cosmoHammer.MpiCosmoHammerSampler import MpiCosmoHammerSampler
 
 

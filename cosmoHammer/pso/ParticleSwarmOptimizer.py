@@ -7,7 +7,7 @@ from __future__ import print_function, division, absolute_import, unicode_litera
 from copy import copy
 from math import floor
 import math
-import multiprocessing
+import multiprocess as multiprocessing
 import numpy
 
 class ParticleSwarmOptimizer(object):
